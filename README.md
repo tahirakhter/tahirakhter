@@ -57,25 +57,45 @@ Focused on backend architecture, microservices, database engineering, cloud infr
 
 ## Selected Projects
 
-### [AI Consultation Platform](https://github.com/tahirakhter/ai-consultant)
+### 1. AI Consultation Platform
 
-An AI-powered consultation platform designed to support consultation workflows, intelligent recommendations, and AI-assisted interactions.
+An AI-powered consultation management platform designed to streamline consultation workflows and provide intelligent, AI-assisted recommendations. The platform combines conversational AI, agentic workflows, and knowledge retrieval to support consultation activities.
 
-- LLM integration and agentic workflows.
-- RAG-based knowledge retrieval.
-- AI-driven treatment recommendations.
+- Implemented an AI Agent Router to handle different user requests and route them to appropriate AI agents.
+- Integrated OpenAI and Google Gemini for AI-powered conversations and structured responses.
+- Implemented RAG (Retrieval-Augmented Generation) for context-aware information retrieval.
+- Developed tool-calling capabilities to extend AI agents with external tools and operations.
+- Built consultation management, visitor information extraction, and recommendation workflows.
 
-**Technologies:** Python, FastAPI, PostgreSQL, React, TypeScript, LLMs, RAG, AI Agents.
+[View Repository →](https://github.com/tahirakhter/ai-consultant)
 
-### [NestJS Microservices](https://github.com/tahirakhter/Nest-With-Microservices)
+### 2. NestJS Microservices
 
-Backend microservices architecture focused on service communication, distributed workflows, and scalable backend development.
+A backend project demonstrating microservices architecture using NestJS and TypeScript, focusing on modular service development, inter-service communication, and building scalable distributed applications.
 
-**Technologies:** Node.js, NestJS, TypeScript, RabbitMQ, PostgreSQL.
+- Designed modular backend services with clearly separated responsibilities.
+- Implemented service-to-service communication for coordinating operations across services.
+- Explored RabbitMQ-based messaging for asynchronous communication between services.
+- Integrated database operations and backend business logic.
+- Focused on maintainability, service isolation, and scalable backend architecture.
 
-### [Society Gate Pass](https://github.com/tahirakhter/society-gate-pass)
+[View Repository →](https://github.com/tahirakhter/Nest-With-Microservices)
 
-A visitor and gate pass management application designed to streamline access management and visitor workflows.
+### 3. Society Gate Pass
+
+A web-based visitor and gate pass management application designed to digitize visitor registration and access management for residential societies. The system helps organize visitor information and streamline entry-related operations.
+
+- Developed visitor registration and information management workflows.
+- Implemented digital gate pass creation and management.
+- Supported visitor pass verification and entry tracking.
+- Centralized visitor records to improve access management and record keeping.
+- Simplified manual visitor management through a digital workflow.
+
+[View Repository →](https://github.com/tahirakhter/society-gate-pass)
+
+---
+
+Explore more in my [public repositories](https://github.com/tahirakhter?tab=repositories).
 
 ---
 
