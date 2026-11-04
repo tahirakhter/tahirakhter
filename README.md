@@ -10,17 +10,14 @@ Focused on backend architecture, microservices, database engineering, cloud infr
 
 ---
 
-## Engineering Focus
+## Engineering Expertise
 
-| Area | Expertise |
-|---|---|
-| Backend Engineering | Node.js, NestJS, TypeScript, Python, .NET |
-| Architecture | Microservices, Distributed Systems, Event-Driven Architecture |
-| Frontend | React, Next.js, Angular |
-| Databases | PostgreSQL, SQL Server, MongoDB, MySQL |
-| Messaging | RabbitMQ, Redis |
-| Cloud & DevOps | AWS, Docker, CI/CD, GitHub Actions |
-| AI Engineering | LLM Integration, RAG, AI Agents, MCP |
+- **Backend Architecture:** Microservices, Distributed Systems, Event-Driven Architecture.
+- **Enterprise Engineering:** Scalable applications, secure integrations, third-party APIs.
+- **Database Engineering:** Database design, query optimization, ETL and data migration.
+- **Cloud & Infrastructure:** AWS, Docker, CI/CD and deployment automation.
+- **Technical Leadership:** Architecture decisions, code reviews, mentoring and technical planning.
+- **AI Engineering:** LLM integration, RAG, AI agents and intelligent workflows.
 
 ## Technical Toolkit
 
@@ -60,32 +57,33 @@ Focused on backend architecture, microservices, database engineering, cloud infr
 
 ## Selected Projects
 
-### AI Consultation Platform
-An AI-powered consultation platform designed to support consultation workflows, AI-driven recommendations, and intelligent interactions.
+### [AI Consultation Platform](https://github.com/tahirakhter/ai-consultant)
+
+An AI-powered consultation platform designed to support consultation workflows, intelligent recommendations, and AI-assisted interactions.
+
+- LLM integration and agentic workflows.
+- RAG-based knowledge retrieval.
+- AI-driven treatment recommendations.
 
 **Technologies:** Python, FastAPI, PostgreSQL, React, TypeScript, LLMs, RAG, AI Agents.
 
-### NestJS Microservices
+### [NestJS Microservices](https://github.com/tahirakhter/Nest-With-Microservices)
+
 Backend microservices architecture focused on service communication, distributed workflows, and scalable backend development.
 
 **Technologies:** Node.js, NestJS, TypeScript, RabbitMQ, PostgreSQL.
 
-### Society Gate Pass
-A visitor and gate pass management application designed to streamline access management and visitor workflows.
+### [Society Gate Pass](https://github.com/tahirakhter/society-gate-pass)
 
-Explore more in my [public repositories](https://github.com/tahirakhter?tab=repositories).
+A visitor and gate pass management application designed to streamline access management and visitor workflows.
 
 ---
 
-## GitHub Activity
+## Connect
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tahirakhter&show_icons=true&theme=default&hide_border=true&title_color=172554&icon_color=0D9488)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tahirakhter&layout=compact&theme=default&hide_border=true&title_color=172554)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tahirakhter&theme=default&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-172554?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahirakhter/)
+[![GitHub](https://img.shields.io/badge/GitHub-172554?style=flat-square&logo=github&logoColor=white)](https://github.com/tahirakhter)
 
 ---
 
 *Building scalable systems, solving engineering challenges, and continuously evolving with technology.*
-
