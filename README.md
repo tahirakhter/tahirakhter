@@ -79,7 +79,7 @@ A backend project demonstrating microservices architecture using NestJS and Type
 - Integrated database operations and backend business logic.
 - Focused on maintainability, service isolation, and scalable backend architecture.
 
-[View Repository →](https://github.com/tahirakhter/Nest-With-Microservices)
+[View Repository →](https://github.com/tahirakhter/nestjs-microservices)
 
 ### 3. Society Gate Pass
 
