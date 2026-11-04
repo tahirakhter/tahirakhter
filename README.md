@@ -6,7 +6,7 @@ Senior Software Engineer with **10+ years of experience** designing and building
 
 Focused on backend architecture, microservices, database engineering, cloud infrastructure, and technical leadership. Experienced in delivering enterprise applications, secure integrations, data migration solutions, and AI-powered platforms.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/tahirakhter) · [Repositories](https://github.com/tahirakhter?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/tahirakhter/) · [GitHub](https://github.com/tahirakhter) · [Repositories](https://github.com/tahirakhter?tab=repositories)
 
 ---
 
